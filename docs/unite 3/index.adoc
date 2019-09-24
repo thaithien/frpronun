@@ -1,0 +1,218 @@
+== Unit Three: The most common single, double, and triple vowels in comvinations and clusters in a word
+
+
+=== Introducing the Sounds Featuring the Vowel _a_
+
+Listen carefully to all the examples, repeat the French words after the speaker, then listen for the confirmation.
+
+
+=== The combination _ai_
+
+Pronounce **ai** like __ay__ in the English word _ray_
+
+.Example
+[cols=3]
+|====
+|j'**ai**
+|
+|I have
+
+|j'ir**ai**
+|
+|I will go
+
+|je parler**ai**
+|
+|I will talk
+|====
+
+=== The cluster __aient__
+
+Pronounce *aient* like _e_ in the English word __egg__.
+
+.Examples
+[cols=3]
+|====
+|ils all**aient**
+|
+|they were going
+
+|elles ir**aient**
+|
+|they would go
+|====
+
+=== The Clusters _ail, aille, aillent_
+
+Pronounce *a* as in the French word **la**. 
+The vowel *i* before *l* or  *ll* is pronounced  like  _y_ as in the English word  __yes__. 
+But do not pronounce *e* or **ent**.
+
+.Examples
+[cols=3]
+|====
+|(le) trav**ail**
+|
+|work
+
+|il/elle trav**aille**
+|
+|he/she works
+
+|ils/elles trav**aillent**
+|
+|they work
+|====
+
+=== The cluster _aile_
+
+Pronounce _ai_ like _e_ in the English word __egg__.
+Pronounce the *l*, but not the *e*.
+It sounds like the French word *elle*.
+
+.Example
+[cols=3]
+|====
+|(l')*aile*
+|
+|wing
+|====
+
+=== The cluster *aine*
+Pronounce *aine* like _en_ in the English word _ten_.
+
+.Examples
+[cols=3]
+|====
+|(le) capit**aine**
+|
+|captain
+
+|(la) douz**aine**
+|
+|dozen
+
+|cert**aine**
+|
+|certain
+
+|afric**aine**
+|
+|African
+
+|Jean de La Font**aine**
+|
+|(French poet)
+|====
+
+=== The cluster __aire__
+
+audio::audio/the custer aire.mp3[]
+
+This cluster sounds like the English word _air_.
+
+.Examples
+[cols=3]
+|====
+|(l') annivers**aire**
+|
+|anniversary
+
+|(le) diction**aire**
+|
+|dictionary
+
+|ordin**aire**
+|
+|ordinary
+
+|extraordin**aire**
+|
+|extraordinary
+
+|====
+
+=== The combinations _ais, ait, aît, aix_
+audio::audio/The combinations ais, ait, aît, aix.mp3[]
+
+These combinations are all pronounced like _e_ in the English word _egg_.
+
+'(la) paix.ogg'
+'(le) lait.ogg'
+'elle parlerait.ogg'
+français.ogg
+'il paraît.ogg'
+'il parlait.ogg'
+'je parlais  .ogg'
+'je parlerais.ogg'
+'je vais.ogg'
+mais.ogg
+'s’il vous plaît  .ogg'
+'The combinations ais, ait, aît, aix - .ogg'
+'The combinations ais, ait, aît, aix.mp3'
+'the custer aire.mp3'
+
+.Examples
+[cols=3]
+|====
+|m**ais**
+a|audio::audio/mais.ogg[]
+|but
+ 
+|franç**ais**
+a|audio::audio/français.ogg[]
+|French
+
+|je v**ais**
+a|audio::audio/je vais.ogg[]
+|I'm going
+
+|je parl**ais**
+a|audio::audio/je parlais.ogg[]
+|I was asking
+
+|je parler**ais**
+a|audio::audio/je parlerais.ogg[]
+|I would talk
+
+|(le) l**ait**
+a|audio::audio/(le) lait.ogg[]
+|milk
+
+|il parl**ait**
+a|audio::audio/il parlait.ogg[]
+|he was talking 
+
+|elle parler**ait**
+a|audio::audio/elle parlerait.ogg[]
+|she would talk
+
+|il par**aît**
+a|audio::audio/il paraît.ogg[]
+|it seems
+
+|s'il vous pl**aît**
+a|audio::audio/s’il vous plaît.ogg[]
+|please
+
+|(la) p**aix**
+a|audio::audio/(la) paix.ogg[]
+|peace
+
+|====
+
+The **aix** in certain place names is pronounced like the English prefix _ex_, as in _ex-president_.
+
+.Examples
+[cols=2]
+|====
+|**Aix**-en-Provence
+|
+
+|**Aix**-la-Chapelle
+|
+
+|**Aix**-les-Bains
+|
+|====
+
